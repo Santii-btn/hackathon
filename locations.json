@@ -1,0 +1,4139 @@
+[
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.635514,
+    "lng": -74.022767
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.752606,
+    "lng": -73.969036
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76346,
+    "lng": -74.00025
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76198,
+    "lng": -73.9693
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.717424,
+    "lng": -74.010793
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.641967,
+    "lng": -74.077928
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.8149687,
+    "lng": -73.9560903
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67629,
+    "lng": -73.94925
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.654917,
+    "lng": -73.962083
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.697694,
+    "lng": -73.925806
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69288,
+    "lng": -73.97391
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.85571567,
+    "lng": -73.92743781
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.81994461,
+    "lng": -73.92850801
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.87534011,
+    "lng": -73.87542714
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69656438,
+    "lng": -73.91427923
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71878668,
+    "lng": -74.01055042
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7248741,
+    "lng": -74.00472
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76044172,
+    "lng": -73.99506115
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68065837,
+    "lng": -73.93454969
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6870313,
+    "lng": -73.91374111
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74272368,
+    "lng": -73.99655276
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.592723,
+    "lng": -74.135113
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.75290526,
+    "lng": -73.94352235
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6674207,
+    "lng": -73.9102833
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69608852,
+    "lng": -73.92145414
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.70507539,
+    "lng": -74.01322458
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67613038,
+    "lng": -73.93318009
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78331643,
+    "lng": -73.98062197
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69236338,
+    "lng": -73.93096961
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76149921,
+    "lng": -73.91796863
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85323679,
+    "lng": -73.89310654
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74913401,
+    "lng": -73.97793704
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78160945,
+    "lng": -73.94892746
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72534977,
+    "lng": -73.97862785
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.683367,
+    "lng": -73.7922279
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.70496647,
+    "lng": -73.91751361
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8591294,
+    "lng": -73.90127487
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77023256,
+    "lng": -73.99164147
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.63714951,
+    "lng": -74.11651209
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68381262,
+    "lng": -73.92018981
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76405417,
+    "lng": -73.96450973
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80317005,
+    "lng": -73.94863548
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7657836,
+    "lng": -73.7408196
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.6413779,
+    "lng": -74.08640362
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68218,
+    "lng": -73.87687
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.84505235,
+    "lng": -73.82693077
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76909824,
+    "lng": -73.94326508
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80229054,
+    "lng": -73.93677324
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68219458,
+    "lng": -73.95365641
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68161005,
+    "lng": -73.9039715
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.74777,
+    "lng": -73.95486
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71904232,
+    "lng": -74.00695324
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83285272,
+    "lng": -73.88308033
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79160725,
+    "lng": -73.9388486
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78193046,
+    "lng": -73.97196532
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.66977726,
+    "lng": -73.93377151
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.773404,
+    "lng": -73.981848
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.724493,
+    "lng": -73.94375
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67568845,
+    "lng": -73.93871281
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.64496,
+    "lng": -73.98016
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71327374,
+    "lng": -73.99222919
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72193086,
+    "lng": -73.97755169
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72948122,
+    "lng": -74.00212242
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76737357,
+    "lng": -73.92958358
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67310418,
+    "lng": -73.96755293
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7640828,
+    "lng": -73.8695398
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.824235,
+    "lng": -73.94983
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6742335,
+    "lng": -73.8878004
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6400446,
+    "lng": -73.9482956
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76808088,
+    "lng": -73.93193347
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77622161,
+    "lng": -73.9761931
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.6337035,
+    "lng": -74.14217077
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68175218,
+    "lng": -73.94362126
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85214985,
+    "lng": -73.88634603
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76236315,
+    "lng": -73.91936067
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.84901271,
+    "lng": -73.90952233
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7202214,
+    "lng": -74.0128434
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.83161372,
+    "lng": -73.94291718
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67541,
+    "lng": -73.99128
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.81357603,
+    "lng": -73.94525472
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.84212899,
+    "lng": -73.85504935
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69517863,
+    "lng": -73.91169753
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79837079,
+    "lng": -73.96888428
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.75444697,
+    "lng": -73.9091628
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.81308249,
+    "lng": -73.93777002
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.57825446,
+    "lng": -73.97970298
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67049108,
+    "lng": -73.94772705
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8504801,
+    "lng": -73.8679953
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.87283555,
+    "lng": -73.90491128
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77544608,
+    "lng": -73.95359468
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67112072,
+    "lng": -73.93931296
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73565255,
+    "lng": -74.00171998
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79314192,
+    "lng": -73.94825712
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73800402,
+    "lng": -73.98096538
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71162586,
+    "lng": -73.98504528
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68014247,
+    "lng": -73.96811318
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.66085,
+    "lng": -73.95283
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.738228,
+    "lng": -74.0104549
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77363842,
+    "lng": -73.95970138
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.750278,
+    "lng": -73.89678
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.75071927,
+    "lng": -73.97465123
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68892887,
+    "lng": -73.91690746
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.7019656,
+    "lng": -73.9321766
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78911889,
+    "lng": -73.96666802
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77432421,
+    "lng": -73.98491538
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73464701,
+    "lng": -73.99481939
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.61356176,
+    "lng": -74.11656775
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7424067,
+    "lng": -74.00077857
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76481457,
+    "lng": -73.98776125
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69385789,
+    "lng": -73.92586906
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8611153,
+    "lng": -73.8900366
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73661,
+    "lng": -73.9893
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85489479,
+    "lng": -73.90380453
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68133,
+    "lng": -73.93481
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.70656567,
+    "lng": -74.00674663
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76499499,
+    "lng": -73.92496582
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.646152,
+    "lng": -74.002213
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.83593121,
+    "lng": -73.93919065
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.63692705,
+    "lng": -74.07670907
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6979632,
+    "lng": -73.91719682
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.796764,
+    "lng": -73.931341
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80545915,
+    "lng": -73.96220095
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78010941,
+    "lng": -73.94685208
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.641194,
+    "lng": -73.965472
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73752862,
+    "lng": -73.99693615
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71917142,
+    "lng": -73.98495497
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.7027688,
+    "lng": -73.92527696
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83726017,
+    "lng": -73.9136583
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80557429,
+    "lng": -73.96601334
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67465,
+    "lng": -73.91823
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83612098,
+    "lng": -73.92934956
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6721089,
+    "lng": -73.92796252
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.846468,
+    "lng": -73.894107
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.75289817,
+    "lng": -73.99262429
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67081709,
+    "lng": -73.9532923
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.59549,
+    "lng": -73.77648
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78586061,
+    "lng": -73.95335141
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68764908,
+    "lng": -73.94487351
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68856507,
+    "lng": -73.93027022
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72799057,
+    "lng": -73.97899926
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.80796868,
+    "lng": -73.917581
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.752222,
+    "lng": -74.008278
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72615124,
+    "lng": -73.98330253
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71976091,
+    "lng": -73.97887822
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74160912,
+    "lng": -73.9779265
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.802223,
+    "lng": -73.934723
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.70378294,
+    "lng": -73.92708376
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.6846363,
+    "lng": -73.7809824
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7671587,
+    "lng": -73.98634963
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.649778,
+    "lng": -73.963194
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.61258951,
+    "lng": -74.06930957
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8460035,
+    "lng": -73.8987432
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68085262,
+    "lng": -73.91968254
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67876437,
+    "lng": -73.96537833
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7640456,
+    "lng": -73.95855414
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8139813,
+    "lng": -73.81908033
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.82371538,
+    "lng": -73.88005123
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.65952663,
+    "lng": -73.90591
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80583543,
+    "lng": -73.9471316
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.758836,
+    "lng": -73.96586281
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.85312543,
+    "lng": -73.92903912
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.84592818,
+    "lng": -73.82940911
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.87214621,
+    "lng": -73.88263956
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.691403,
+    "lng": -74.019696
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7286517,
+    "lng": -73.99090146
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76801235,
+    "lng": -73.96423429
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.70860458,
+    "lng": -74.01084945
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.753687,
+    "lng": -73.886999
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.728415,
+    "lng": -73.84711
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79530362,
+    "lng": -73.97107264
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.77405482,
+    "lng": -73.93176388
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.81899415,
+    "lng": -73.95624071
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72142262,
+    "lng": -73.99473223
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.701501,
+    "lng": -73.98263
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.82041375,
+    "lng": -73.94368663
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67623,
+    "lng": -73.93295
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.670745,
+    "lng": -73.957743
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7767445,
+    "lng": -73.94647013
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.70888,
+    "lng": -73.82917
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83316,
+    "lng": -73.92728
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78914316,
+    "lng": -73.97035768
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.746948,
+    "lng": -73.921208
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.877299,
+    "lng": -73.900709
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68758323,
+    "lng": -73.90656117
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73699589,
+    "lng": -73.97826863
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76701706,
+    "lng": -73.92599747
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.71974,
+    "lng": -73.953394
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69237838,
+    "lng": -73.92284252
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76639459,
+    "lng": -73.99037572
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.8075392,
+    "lng": -73.9506789
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.868433,
+    "lng": -73.91832768
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.749728,
+    "lng": -73.862513
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67617742,
+    "lng": -73.96627855
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8774032,
+    "lng": -73.8794743
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7298117,
+    "lng": -74.0110087
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76208812,
+    "lng": -73.92557334
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68513799,
+    "lng": -73.92664053
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69389144,
+    "lng": -73.90959073
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69300171,
+    "lng": -73.9556798
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.77538,
+    "lng": -73.92302
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.70324915,
+    "lng": -73.91453684
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73776704,
+    "lng": -74.00006544
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77779122,
+    "lng": -73.95197613
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72946703,
+    "lng": -73.97803
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6792579,
+    "lng": -73.92542146
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.75914,
+    "lng": -73.92146
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.737472,
+    "lng": -74.005095
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80348382,
+    "lng": -73.96686314
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.8121979,
+    "lng": -73.95354006
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.70216,
+    "lng": -73.80445
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76927318,
+    "lng": -73.98478296
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.823692,
+    "lng": -73.943764
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6688541,
+    "lng": -73.8857006
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.83478846,
+    "lng": -73.94085858
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78957914,
+    "lng": -73.97379657
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67428152,
+    "lng": -73.94742765
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68434297,
+    "lng": -73.95393368
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8553543,
+    "lng": -73.89307771
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73287635,
+    "lng": -74.00655867
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6840598,
+    "lng": -73.9050492
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.75544387,
+    "lng": -73.97332562
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85034468,
+    "lng": -73.9153102
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73090907,
+    "lng": -73.97406496
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.70584703,
+    "lng": -74.0170474
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.62988,
+    "lng": -74.010582
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7568246,
+    "lng": -73.94436523
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.82035708,
+    "lng": -73.94025329
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83343,
+    "lng": -73.861655
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69043184,
+    "lng": -73.91965739
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68574435,
+    "lng": -73.93556558
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69877411,
+    "lng": -73.92600182
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76223009,
+    "lng": -73.91863731
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.761833,
+    "lng": -73.950139
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7489842,
+    "lng": -74.0071142
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.87628034,
+    "lng": -73.88136584
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.823225,
+    "lng": -73.95617
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69389322,
+    "lng": -73.94294936
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.70421989,
+    "lng": -73.91591713
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.780087,
+    "lng": -73.974657
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.707547,
+    "lng": -73.864884
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8432747,
+    "lng": -73.9162121
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.768389,
+    "lng": -73.937
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.63241896,
+    "lng": -74.15653929
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68277198,
+    "lng": -73.94101046
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83545663,
+    "lng": -73.92011907
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8097074,
+    "lng": -73.9185797
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.84052114,
+    "lng": -73.91521599
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71741522,
+    "lng": -74.013125
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73913472,
+    "lng": -73.9954027
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85886086,
+    "lng": -73.91091943
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74723685,
+    "lng": -73.98983753
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.595012,
+    "lng": -73.7765544
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78008138,
+    "lng": -73.95322226
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.870106,
+    "lng": -73.920792
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.756032,
+    "lng": -74.006046
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69040998,
+    "lng": -73.94542437
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7281,
+    "lng": -73.979
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.82885132,
+    "lng": -73.85682028
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80473262,
+    "lng": -73.96234996
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.75685381,
+    "lng": -73.90800554
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8385211,
+    "lng": -73.84905796
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76355516,
+    "lng": -73.92199025
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7185603,
+    "lng": -73.99876398
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67029476,
+    "lng": -73.92811507
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67676683,
+    "lng": -73.94710109
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67812845,
+    "lng": -73.91918834
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67165677,
+    "lng": -73.95756003
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.632583,
+    "lng": -73.948111
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78951562,
+    "lng": -73.9716111
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.75013,
+    "lng": -73.91369
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.746199,
+    "lng": -73.919118
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7948329,
+    "lng": -73.93320322
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77035403,
+    "lng": -73.95388877
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.714448,
+    "lng": -73.968049
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79525233,
+    "lng": -73.97328626
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.779055,
+    "lng": -73.944665
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.73833,
+    "lng": -73.87775
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76558558,
+    "lng": -73.92632732
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77113841,
+    "lng": -73.98717945
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71989182,
+    "lng": -73.99195962
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.62214652,
+    "lng": -73.9084944
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6727118,
+    "lng": -73.984731
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79426591,
+    "lng": -73.93441424
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.641619,
+    "lng": -74.1012686
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76417452,
+    "lng": -73.92345808
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.77285588,
+    "lng": -73.93261246
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78070495,
+    "lng": -73.97665659
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67165371,
+    "lng": -73.96107707
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.81714524,
+    "lng": -73.94088227
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.81491836,
+    "lng": -73.95299658
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7081655,
+    "lng": -73.8342141
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.705441,
+    "lng": -73.93882
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.715889,
+    "lng": -73.986861
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76154874,
+    "lng": -73.93188491
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.761472,
+    "lng": -73.925611
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71424652,
+    "lng": -73.98167007
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85928459,
+    "lng": -73.89476415
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77806091,
+    "lng": -73.95466305
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7601267,
+    "lng": -73.9949035
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.81859325,
+    "lng": -73.86818949
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76550445,
+    "lng": -73.96592719
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.754004,
+    "lng": -73.885483
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67303171,
+    "lng": -73.94181043
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.693609,
+    "lng": -73.990261
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.82647613,
+    "lng": -73.9468776
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7003,
+    "lng": -73.906675
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67867868,
+    "lng": -73.97343334
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.62214724,
+    "lng": -74.07850452
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.66547,
+    "lng": -73.88668
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7649409,
+    "lng": -73.92701134
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73120287,
+    "lng": -73.9824943
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.797433,
+    "lng": -73.93471364
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68393669,
+    "lng": -73.95034757
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6676529,
+    "lng": -73.8940832
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.688793,
+    "lng": -73.904826
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.6871579,
+    "lng": -74.0201142
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74163392,
+    "lng": -73.99363601
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7721778,
+    "lng": -73.99013103
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71066348,
+    "lng": -74.00341004
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83769228,
+    "lng": -73.8663211
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6785,
+    "lng": -73.912
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.794717,
+    "lng": -73.969552
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77611866,
+    "lng": -73.97994637
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6734846,
+    "lng": -73.93339064
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78520105,
+    "lng": -73.97335456
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.844901,
+    "lng": -73.887287
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7540545,
+    "lng": -73.96902092
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76880091,
+    "lng": -73.95866268
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67459378,
+    "lng": -73.95274546
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6547305,
+    "lng": -74.0018481
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.636758,
+    "lng": -74.119727
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73887359,
+    "lng": -73.98511663
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.86620151,
+    "lng": -73.92508216
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.70669251,
+    "lng": -73.9204542
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.609644,
+    "lng": -73.999683
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76656937,
+    "lng": -73.92594543
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7018967,
+    "lng": -73.7834692
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74633636,
+    "lng": -73.98169907
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73916944,
+    "lng": -74.00274561
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69555546,
+    "lng": -73.94638695
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.71645,
+    "lng": -73.85778
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67358758,
+    "lng": -73.96311119
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.87896,
+    "lng": -73.87585
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73119051,
+    "lng": -73.98598125
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7716845,
+    "lng": -73.96144625
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74960583,
+    "lng": -74.00261308
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69271648,
+    "lng": -73.9155288
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.64302975,
+    "lng": -74.07558024
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68823356,
+    "lng": -73.95123169
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.85578084,
+    "lng": -73.93784981
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.774194,
+    "lng": -73.911611
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.82705719,
+    "lng": -73.83048333
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.864176,
+    "lng": -73.900932
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73534879,
+    "lng": -73.99849526
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80556262,
+    "lng": -73.93639237
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.742827,
+    "lng": -74.0078384
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.90354363,
+    "lng": -73.90384467
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69828985,
+    "lng": -73.93382885
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68135249,
+    "lng": -73.92874405
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68596,
+    "lng": -73.99701
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.742278,
+    "lng": -73.98725
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76216672,
+    "lng": -73.99722147
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78580942,
+    "lng": -73.94264292
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80207202,
+    "lng": -73.95370033
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.734225,
+    "lng": -74.010722
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85345387,
+    "lng": -73.88198409
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73034922,
+    "lng": -74.0025199
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69293663,
+    "lng": -73.90797403
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68303106,
+    "lng": -73.92619696
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8447734,
+    "lng": -73.9133703
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.81113664,
+    "lng": -73.95765916
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77833307,
+    "lng": -73.94848936
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.70249991,
+    "lng": -73.91299399
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73539349,
+    "lng": -73.98759673
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.82096078,
+    "lng": -73.95101175
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.725995,
+    "lng": -73.983207
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.82135,
+    "lng": -73.92506
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.77534869,
+    "lng": -73.93613856
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.723183,
+    "lng": -73.988622
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73363996,
+    "lng": -73.98073154
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.748406,
+    "lng": -73.721002
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.785792,
+    "lng": -73.950833
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68457611,
+    "lng": -73.94418888
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67726495,
+    "lng": -73.96265991
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67741189,
+    "lng": -73.95897587
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74160624,
+    "lng": -73.98558685
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6657639,
+    "lng": -73.9918034
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78664183,
+    "lng": -73.96841286
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.74387,
+    "lng": -73.9562
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68922911,
+    "lng": -73.90958436
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.7003602,
+    "lng": -73.9289955
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67710908,
+    "lng": -73.95261202
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76298114,
+    "lng": -73.92041435
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79097092,
+    "lng": -73.9727667
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83502288,
+    "lng": -73.84560562
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.75751347,
+    "lng": -73.95414933
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.613444,
+    "lng": -74.095028
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76216002,
+    "lng": -73.98983497
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.745331,
+    "lng": -73.998272
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69513222,
+    "lng": -73.92812781
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.84112457,
+    "lng": -73.88433337
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69466118,
+    "lng": -73.93744513
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7183877,
+    "lng": -74.0148782
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85487248,
+    "lng": -73.91663756
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.83816928,
+    "lng": -73.93815592
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7724122,
+    "lng": -73.9053388
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.70137351,
+    "lng": -73.91136554
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.81773208,
+    "lng": -73.94737802
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80014,
+    "lng": -73.94232
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6689286,
+    "lng": -73.876838
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68640156,
+    "lng": -73.92984342
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.756149,
+    "lng": -73.907915
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.762667,
+    "lng": -73.915111
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7475361,
+    "lng": -73.8820084
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71673502,
+    "lng": -73.98896139
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6516767,
+    "lng": -73.9059912
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77294782,
+    "lng": -73.94638708
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79670761,
+    "lng": -73.94496605
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.66973149,
+    "lng": -73.94219801
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.873838,
+    "lng": -73.895344
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73121274,
+    "lng": -74.00773183
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67463802,
+    "lng": -73.92219376
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77125669,
+    "lng": -73.95030766
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72624754,
+    "lng": -73.97435929
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.671653,
+    "lng": -73.889806
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6726299,
+    "lng": -74.0103773
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80984148,
+    "lng": -73.94765664
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77844967,
+    "lng": -73.98593115
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78693626,
+    "lng": -73.97570673
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72958971,
+    "lng": -74.00684701
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.671899,
+    "lng": -73.969673
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.64451,
+    "lng": -73.92038
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76387665,
+    "lng": -73.92266314
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.583757,
+    "lng": -74.161931
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6789777,
+    "lng": -73.93855054
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6932882,
+    "lng": -73.90436713
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.840005,
+    "lng": -73.916636
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7067584,
+    "lng": -74.0171557
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68415382,
+    "lng": -73.90844576
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76122012,
+    "lng": -73.93532887
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.84608111,
+    "lng": -73.94016188
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.81799952,
+    "lng": -73.85720618
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.74268,
+    "lng": -73.89566
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71256506,
+    "lng": -74.00756553
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79141162,
+    "lng": -73.94473729
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.75159,
+    "lng": -73.82981
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8215402,
+    "lng": -73.9155499
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78189489,
+    "lng": -73.97906582
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.64305723,
+    "lng": -74.07695856
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72642093,
+    "lng": -73.9943678
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67741,
+    "lng": -73.972226
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76668263,
+    "lng": -73.92875042
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79758808,
+    "lng": -73.93138837
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68254875,
+    "lng": -73.94996937
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.7296982,
+    "lng": -73.9601997
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69090444,
+    "lng": -73.90418004
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74152246,
+    "lng": -73.98135115
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.70585648,
+    "lng": -73.91865954
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.88201,
+    "lng": -73.880346
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.86054009,
+    "lng": -73.92733723
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.75530561,
+    "lng": -73.94141782
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83292727,
+    "lng": -73.86668779
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.66362877,
+    "lng": -73.9190362
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69744237,
+    "lng": -73.92379101
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79805485,
+    "lng": -73.94852463
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6903182,
+    "lng": -73.93640511
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.764056,
+    "lng": -73.915722
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68871201,
+    "lng": -73.95497169
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.86548295,
+    "lng": -73.89523789
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.850947,
+    "lng": -73.938068
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76267874,
+    "lng": -73.92014229
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68419729,
+    "lng": -73.93525746
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.721268,
+    "lng": -73.846877
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72504421,
+    "lng": -73.98699125
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7616519,
+    "lng": -73.8720745
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76175746,
+    "lng": -73.96866043
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.79786102,
+    "lng": -73.96400325
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.70815249,
+    "lng": -74.0020686
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.82979403,
+    "lng": -73.94453757
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77068591,
+    "lng": -73.98008527
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.66481607,
+    "lng": -73.89751893
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.84622162,
+    "lng": -73.88896354
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.81762957,
+    "lng": -73.95314779
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77970216,
+    "lng": -73.98189624
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80957427,
+    "lng": -73.93987723
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67645433,
+    "lng": -73.94148588
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.707626,
+    "lng": -73.836079
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.69056,
+    "lng": -73.80395
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.80811,
+    "lng": -73.91752
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76524333,
+    "lng": -73.92510952
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.712164,
+    "lng": -73.980547
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85693035,
+    "lng": -73.89822654
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.666485,
+    "lng": -73.950935
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.63034,
+    "lng": -74.11616
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74339417,
+    "lng": -73.98831241
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.771,
+    "lng": -73.995372
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67487312,
+    "lng": -73.96038702
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6874973,
+    "lng": -73.92091434
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.75280254,
+    "lng": -73.9969215
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69725935,
+    "lng": -73.91542856
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76858111,
+    "lng": -73.96168752
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.63990101,
+    "lng": -74.09028654
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71640611,
+    "lng": -74.01097454
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76586365,
+    "lng": -73.94630834
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.82775765,
+    "lng": -73.81831449
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.654139,
+    "lng": -73.976444
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74652449,
+    "lng": -74.0051919
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.714243,
+    "lng": -73.990163
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78895766,
+    "lng": -73.94920119
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7249628,
+    "lng": -73.99017938
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67785104,
+    "lng": -73.96890208
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73149652,
+    "lng": -73.99051628
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67509191,
+    "lng": -73.95637851
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67495664,
+    "lng": -73.92772514
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7432328,
+    "lng": -73.9431336
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78907737,
+    "lng": -73.97608351
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77142731,
+    "lng": -73.95631212
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.80237734,
+    "lng": -73.94273579
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7427093,
+    "lng": -73.892547
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.674065,
+    "lng": -73.885109
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67155276,
+    "lng": -73.93360522
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.82625676,
+    "lng": -73.93855724
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78596764,
+    "lng": -73.9786452
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.831187,
+    "lng": -73.900567
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67744,
+    "lng": -73.953657
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77228183,
+    "lng": -73.95896669
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Staten Island",
+    "lat": 40.62262016,
+    "lng": -74.14456081
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76833214,
+    "lng": -73.92911855
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72376127,
+    "lng": -73.98540061
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74644185,
+    "lng": -73.99747697
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.733536,
+    "lng": -74.002663
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85865876,
+    "lng": -73.88819441
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73674344,
+    "lng": -73.98908567
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7589304,
+    "lng": -73.99201306
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.66392,
+    "lng": -73.76626
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.71026346,
+    "lng": -73.99644857
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.83268,
+    "lng": -73.918805
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.82739892,
+    "lng": -73.91744524
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.716483,
+    "lng": -74.014855
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68581223,
+    "lng": -73.94146979
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78468357,
+    "lng": -73.94989274
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.84610841,
+    "lng": -73.93435451
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6174,
+    "lng": -74.033703
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.81380167,
+    "lng": -73.94286914
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67550079,
+    "lng": -73.96958336
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6907969,
+    "lng": -73.91234536
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.84382558,
+    "lng": -73.78518753
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.88207,
+    "lng": -73.88825
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77380204,
+    "lng": -73.95175657
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6712827,
+    "lng": -73.94190498
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.807138,
+    "lng": -73.96437
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69199579,
+    "lng": -73.90651491
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7256282,
+    "lng": -74.003866
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.76262573,
+    "lng": -73.93766776
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.67279918,
+    "lng": -73.95310335
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68815347,
+    "lng": -73.92714042
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6950796,
+    "lng": -73.9073417
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.84471862,
+    "lng": -73.90847526
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.85322611,
+    "lng": -73.8434618
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6472062,
+    "lng": -73.9526235
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.7909141,
+    "lng": -73.96910424
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.8050784,
+    "lng": -73.95281788
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.679954,
+    "lng": -73.99517
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.820124,
+    "lng": -73.895674
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.77519164,
+    "lng": -73.98753544
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.78340998,
+    "lng": -73.94763142
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.672077,
+    "lng": -73.996401
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6799083,
+    "lng": -73.95316858
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.8553482,
+    "lng": -73.93804448
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.879247,
+    "lng": -73.90727
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.839897,
+    "lng": -73.879181
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.76282014,
+    "lng": -73.99302402
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73589411,
+    "lng": -73.98222696
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73149351,
+    "lng": -73.99466766
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69660505,
+    "lng": -73.93099308
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.708464,
+    "lng": -74.016164
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.8575626,
+    "lng": -73.909437
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6843646,
+    "lng": -73.9107326
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.84103325,
+    "lng": -73.93805467
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.6483066,
+    "lng": -73.9772287
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.72556518,
+    "lng": -73.98065136
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.82162476,
+    "lng": -73.86291526
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74448957,
+    "lng": -73.97284148
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Queens",
+    "lat": 40.7579291,
+    "lng": -73.90980195
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.69955,
+    "lng": -73.93066
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.73262922,
+    "lng": -73.98184437
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.68657037,
+    "lng": -73.95448588
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Brooklyn",
+    "lat": 40.70206804,
+    "lng": -73.92383762
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.85039541,
+    "lng": -73.93447995
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Manhattan",
+    "lat": 40.74413037,
+    "lng": -73.97623066
+  },
+  {
+    "name": "Unknown",
+    "address": "NYC",
+    "description": "Bronx",
+    "lat": 40.87989884,
+    "lng": -73.87587871
+  }
+]
